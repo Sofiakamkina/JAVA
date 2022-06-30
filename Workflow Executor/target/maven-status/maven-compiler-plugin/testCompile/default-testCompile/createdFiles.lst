@@ -1,0 +1,10 @@
+ru/nsu/kamkina/commands/SubtractTest.class
+ru/nsu/kamkina/commands/MultiplyTest.class
+ru/nsu/kamkina/commands/AddTest.class
+ru/nsu/kamkina/commands/SqrtTest.class
+ru/nsu/kamkina/commands/DefineTest.class
+ru/nsu/kamkina/commands/PushTest.class
+ru/nsu/kamkina/commands/PopTest.class
+ru/nsu/kamkina/commands/CommentTest.class
+ru/nsu/kamkina/commands/PrintTest.class
+ru/nsu/kamkina/commands/DivideTest.class

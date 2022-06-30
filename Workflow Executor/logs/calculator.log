@@ -1,0 +1,167 @@
+2022-06-29 19:50:45,932 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 19:50:45,937 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from commands.txt
+2022-06-29 19:50:45,941 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 19:50:45,943 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:50:45,943 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:50:45,945 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:50:45,945 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:50:45,945 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:50:45,945 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:50:45,946 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Add
+2022-06-29 19:50:45,946 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Sqrt
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.commands.Sqrt [main] Sqrt command execute
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Add
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:50:45,947 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:50:45,949 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:50:45,952 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Divide
+2022-06-29 19:50:45,952 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:50:45,953 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Print
+2022-06-29 19:50:45,953 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 19:51:13,248 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 19:51:13,255 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from commands.txt
+2022-06-29 19:51:13,259 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 19:51:13,260 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:51:13,261 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:51:13,261 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:51:13,262 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:51:13,262 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:51:13,262 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:51:13,262 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Add
+2022-06-29 19:51:13,262 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Sqrt
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.commands.Sqrt [main] Sqrt command execute
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Add
+2022-06-29 19:51:13,263 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:51:13,264 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:51:13,265 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:51:13,267 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Divide
+2022-06-29 19:51:13,267 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:51:13,269 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Print
+2022-06-29 19:51:13,269 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 19:51:42,928 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 19:51:42,936 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 19:52:00,632 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 19:52:00,635 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:52:00,635 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:52:06,848 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Print
+2022-06-29 19:52:06,848 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 19:52:32,188 INFO ru.nsu.kamkina.commands.Sqrt [main] Sqrt command execute
+2022-06-29 19:52:32,243 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:52:32,246 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:52:32,250 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:52:32,252 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:52:32,259 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:52:32,263 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:52:32,264 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:52:32,265 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:52:32,271 INFO ru.nsu.kamkina.commands.Pop [main] Pop command execute
+2022-06-29 19:52:32,274 INFO ru.nsu.kamkina.commands.Pop [main] Pop command execute
+2022-06-29 19:52:32,274 INFO ru.nsu.kamkina.commands.Pop [main] Pop command execute
+2022-06-29 19:52:32,276 INFO ru.nsu.kamkina.commands.Comment [main] Comment command execute
+2022-06-29 19:52:32,285 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:52:32,288 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:52:32,294 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 19:52:32,308 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,310 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,313 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,313 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,315 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,317 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,319 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:52:32,326 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:52:32,334 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:52:32,335 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:52:32,341 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:52:32,343 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:52:32,376 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:52:32,376 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:54:52,539 INFO ru.nsu.kamkina.commands.Sqrt [main] Sqrt command execute
+2022-06-29 19:54:52,577 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:54:52,580 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:54:52,585 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:54:52,588 INFO ru.nsu.kamkina.commands.Add [main] Add command execute
+2022-06-29 19:54:52,593 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:54:52,597 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:54:52,598 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:54:52,599 INFO ru.nsu.kamkina.commands.Subtract [main] Subtract command execute
+2022-06-29 19:54:52,605 INFO ru.nsu.kamkina.commands.Pop [main] Pop command execute
+2022-06-29 19:54:52,608 INFO ru.nsu.kamkina.commands.Pop [main] Pop command execute
+2022-06-29 19:54:52,608 INFO ru.nsu.kamkina.commands.Pop [main] Pop command execute
+2022-06-29 19:54:52,611 INFO ru.nsu.kamkina.commands.Comment [main] Comment command execute
+2022-06-29 19:54:52,616 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:54:52,621 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:54:52,624 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 19:54:52,630 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,633 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,635 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,636 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,638 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,647 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,649 INFO ru.nsu.kamkina.commands.Multiply [main] Multiply command execute
+2022-06-29 19:54:52,656 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:54:52,668 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:54:52,670 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:54:52,672 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:54:52,686 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 19:54:52,691 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:54:52,691 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:55:18,344 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 19:55:18,358 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 19:55:34,634 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 19:55:34,635 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:55:34,637 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:55:47,590 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:57:27,207 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 19:57:27,214 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 19:58:11,351 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 19:58:11,354 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:58:30,912 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 19:58:30,918 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 19:58:43,474 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 19:58:43,477 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 19:58:43,478 INFO ru.nsu.kamkina.commands.Define [main] Define command execute
+2022-06-29 19:58:55,942 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 19:58:55,943 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 19:59:00,762 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Print
+2022-06-29 19:59:00,763 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 19:59:35,823 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 20:02:07,630 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 20:02:07,642 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 20:02:18,101 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 20:02:18,103 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CommandNotFoundException: Command doesn't exist
+2022-06-29 20:02:24,326 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Define
+2022-06-29 20:02:24,327 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CalculatorArgumentException: Not enough argument
+2022-06-29 20:03:06,662 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 20:03:06,670 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 20:03:19,388 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 20:03:19,391 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 20:03:19,392 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 20:03:23,258 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Sqrt
+2022-06-29 20:03:23,259 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CalculatorArithmeticException: Number is negative
+2022-06-29 20:03:39,860 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 20:03:39,861 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 20:03:43,722 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CommandNotFoundException: Command doesn't exist
+2022-06-29 20:03:54,170 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CommandNotFoundException: Command doesn't exist
+2022-06-29 20:04:03,771 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Divide
+2022-06-29 20:04:03,771 INFO ru.nsu.kamkina.commands.Divide [main] Divide command execute
+2022-06-29 20:05:28,541 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Print
+2022-06-29 20:05:28,542 INFO ru.nsu.kamkina.commands.Print [main] Print command execute
+2022-06-29 20:06:18,782 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Push
+2022-06-29 20:06:18,783 INFO ru.nsu.kamkina.commands.Push [main] Push command execute
+2022-06-29 20:06:20,391 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Divide
+2022-06-29 20:06:20,392 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CalculatorArithmeticException: Division by zero
+2022-06-29 23:30:11,149 INFO ru.nsu.kamkina.App [main] Application start
+2022-06-29 23:30:11,155 INFO ru.nsu.kamkina.executor.StackCalculator [main] Reading from console
+2022-06-29 23:30:22,619 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Load commands.properties
+2022-06-29 23:30:22,622 INFO ru.nsu.kamkina.factory.FactoryCommand [main] Build Subtract
+2022-06-29 23:30:22,623 ERROR ru.nsu.kamkina.executor.StackCalculator [main] ru.nsu.kamkina.exceptions.CalculatorStackException: Not enough values to execute command
